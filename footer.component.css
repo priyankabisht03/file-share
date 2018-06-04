@@ -1,0 +1,471 @@
+
+#footer-container .jointheclubblock {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    padding: 45px 0 0;
+    border-top: 1px solid #a5a5a5
+}
+#footer-container .jointheclubblock h3 {
+    display: inline-block;
+    text-align: center;
+    margin: 0 0 20px;
+    padding: 0 0 1px;
+    font-family: gothambook;
+    font-size: 18px;
+    color: #000;
+    text-transform: uppercase;
+    border-bottom: 4px solid #fdbd42;
+    letter-spacing: 1px;
+    font-weight: normal
+}
+#footer-container .jointheclubblock h2 {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    margin: 0 0 20px;
+    padding: 0;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    color: #000;
+    text-transform: none;
+    letter-spacing: 1px;
+    font-weight: normal
+}
+#footer-container .jointheclubblock h2 span {
+    color: #cb2424
+}
+#footer-container .jointheclubblock .club_succes {
+    color: #188802;
+    font-size: 12px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 100%;
+    margin-top: 6px
+}
+#footer-container .jointheclubblock .club_error {
+    color: #cb2424;
+    font-size: 12px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 100%;
+    margin-top: 6px
+}
+#footer-container .jointheclubblock .club_invalid {
+    color: #cb2424;
+    font-size: 12px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 100%;
+    margin-top: 6px
+}
+#footer-container .jointheclubblock .jointheclub_inputblock {
+    font-size: 0;
+    margin: 0 0 45px
+}
+#footer-container .jointheclubblock .jointheclub_inputblock span {
+    background-color: #fff;
+    font-family: gothambook;
+    font-size: 18px;
+    color: #373737;
+    width: 80px;
+    height: 54px;
+    text-transform: uppercase;
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: top;
+    line-height: 54px;
+    margin-right: 1px
+}
+#footer-container .jointheclubblock .jointheclub_inputblock input[type="tel"] {
+    background-color: #fff;
+    font-family: gothambook;
+    font-size: 18px;
+    color: #5c5c5c;
+    width: 100%;
+    max-width: 448px;
+    height: 54px;
+    text-transform: none;
+    border: 0 none;
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: top;
+    padding: 0 15px
+}
+#footer-container .jointheclubblock .jointheclub_inputblock input[type="tel"]:focus {
+    box-shadow: none
+}
+#footer-container ul.newfooterlinkblock li.fourth .widget_mailchimpsf_widget h3.widget-title {
+    margin: 40px 0 10px
+}
+#footer-container  .jointheclubblock .jointheclub_inputblock input[type="submit"] {
+    background-color: #fdbd42;
+    font-family: gothambook;
+    font-size: 14px;
+    color: #5c5c5c;
+    width: 80px;
+    height: 54px;
+    text-transform: none;
+    background-image: url(https://ik.imagekit.io/eshopbox/mrbutton/newfooter_jointheclub_arrow.png);
+    background-position: center;
+    text-indent: -9999px;
+    width: 60px;
+    height: 54px;
+    background-repeat: no-repeat;
+    border: 0 none;
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: top
+}
+#footer-container h4 {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    margin: 0 0 10px;
+    padding: 0;
+    font-family: gothambook;
+    font-size: 16px;
+    color: #464646;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: normal
+}
+#footer-container  ul {
+    display: inline-block;
+    width: 100%;
+    text-align: center
+}
+#footer-container ul li {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 33px;
+    float: none
+}
+#footer-container  ul li:first-child {
+    margin-left: 0
+}
+#footer-container  .follow-us-block ul.follow-us-links li a {
+    background-image: url(https://ik.imagekit.io/eshopbox/mrbutton/newfooter_socialicon.png);
+    background-repeat: no-repeat;
+    width: 39px;
+    height: 40px;
+    float: left;
+    transition: none
+}
+#footer-container  ul.follow-us-links li a.facebookicon {
+    background-position: 0 0
+}
+#footer-container  ul.follow-us-links li a.twittericon {
+    background-position: -40px 0
+}
+#footer-container  ul.follow-us-links li a.instagramicon {
+    background-position: -79px 0
+}
+#footer-container ul.follow-us-links li a.youtubeicon {
+    background-position: -119px 0
+}
+#footer-container  ul.follow-us-links li a.facebookicon:hover {
+    background-position: 0 -39px
+}
+#footer-container  ul.follow-us-links li a.twittericon:hover {
+    background-position: -40px -39px
+}
+#footer-container  ul.follow-us-links li a.instagramicon:hover {
+    background-position: -79px -39px
+}
+#footer-container  ul.follow-us-links li a.youtubeicon:hover {
+    background-position: -119px -39px
+}
+#footer-container .footer-shipping-block ul.footershippingblock {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    background-color: #fff;
+    border-top: 1px solid #a5a5a5;
+    border-bottom: 1px solid #a5a5a5;
+    padding: 30px 0;
+    margin: 40px 0 0 0;
+}
+#footer-container .footer-shipping-block ul.footershippingblock li {
+    display: inline-block;
+    padding-top: 55px;
+    vertical-align: top;
+    float: none;
+    box-sizing: border-box;
+    width: 24%;
+    margin-left: 0
+}
+#footer-container .footer-shipping-block ul.footershippingblock li h5 {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    color: #565555;
+    font-family: gothambold;
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+    font-weight: normal
+}
+#footer-container .footer-shipping-block ul.footershippingblock li h6 {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    color: #565555;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 11px;
+    margin: 0;
+    padding: 0
+}
+#footer-container .footer-shipping-block .footershippingblock li.first {
+    background-image: url(https://ik.imagekit.io/eshopbox/mrbuttonlive/wp-content/themes/MRBUTTON_THEME/images/newfooter_shippingplane.png);
+    background-repeat: no-repeat;
+    background-position: top center
+}
+#footer-container .footer-shipping-block ul.footershippingblock li.second {
+    background-image: url(https://ik.imagekit.io/eshopbox/mrbuttonlive/wp-content/themes/MRBUTTON_THEME/images/newfooter_wizardicon.png);
+    background-repeat: no-repeat;
+    background-position: top center
+}
+#footer-container .footer-shipping-block ul.footershippingblock li.third {
+    background-image: url(https://ik.imagekit.io/eshopbox/mrbuttonlive/wp-content/themes/MRBUTTON_THEME/images/newfooter_easyreturnicon.png);
+    background-repeat: no-repeat;
+    background-position: top center
+}
+#footer-container .footer-shipping-block ul.footershippingblock li.fourth {
+    background-image: url(https://ik.imagekit.io/eshopbox/mrbuttonlive/wp-content/themes/MRBUTTON_THEME/images/newfooter_codicon.png);
+    background-repeat: no-repeat;
+    background-position: top center
+}
+#footer-container .footerlinkclass ul.footerlinkblock {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    background-color: #f0f0f0;
+    border-bottom: 1px solid #a5a5a5;
+    padding: 30px 0;
+    margin: 0
+}
+#footer-container .footerlinkclass ul.footerlinkblock li {
+    display: inline-block;
+    padding-top: 0;
+    vertical-align: top;
+    float: none;
+    box-sizing: border-box;
+    width: 20%;
+    margin-left: 0;
+    font-size: 15px;
+    color: #000;
+    font-family: gothambook;
+    text-transform: none;
+    text-align: left
+}
+#footer-container .footerlinkclass ul.footerlinkblock li a {
+    background-image: none;
+    font-family: gothambook;
+    font-size: 13px;
+    color: #000;
+    width: auto;
+    height: auto;
+    float: none;
+    text-transform: uppercase;
+    letter-spacing: .3px
+}
+#footer-container .footerlinkclass ul.footerlinkblock li a:hover {
+    background-image: none;
+    font-family: gothambook;
+    font-size: 13px;
+    color: #000;
+    text-decoration: underline
+}
+#footer-container .footerlinkclass ul.footerlinkblock li ul li {
+    display: block;
+    width: 100%;
+    line-height: 30px
+}
+#footer-container .footerlinkclass .footerlinkblock li a {
+    display: block;
+    text-decoration: none;
+}
+#footer-container .footerlinkclass .footerlinkblock li h5 {
+    padding: 0;
+    border: 0 none;
+    font-size: 15px;
+    color: #000;
+    font-family: "Times New Roman", Times, serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    width: 100%;
+    text-align: left;
+    margin: 0 0 15px
+}
+.widget_mailchimpsf_widget{
+    color: #000
+}
+.widget_mailchimpsf_widget #mc_signup {
+    display: inline-block;
+    margin-top: 10px;
+    width: 100%
+}
+.widget_mailchimpsf_widget label {
+    display: none
+}
+.widget_mailchimpsf_widget .mc_merge_var {
+    display: inline-block;
+    vertical-align: top;
+    float: left
+}
+.widget_mailchimpsf_widget .mc_merge_var .mc_input {
+    border: 0 solid #555;
+    background-color: #e2e2e2;
+    font-size: 10px;
+    text-transform: none;
+    color: #555;
+    height: 24px;
+    line-height: 24px;
+    width: 130px;
+    font-family: gothambook
+}
+
+.widget_mailchimpsf_widget #mc_signup input[type="text"] {
+
+    height: 42px;
+    width: 120%;
+    background-color: #fff;
+    font-family: gothambook;
+    font-size: 12px;
+    color: #878787;
+    display: inline-block;
+    vertical-align: top;
+    border: 0 none;
+    padding: 0 10px;
+    box-sizing: border-box;
+
+}
+.widget_mailchimpsf_widget .widget-title {
+    font-family: gothambook;
+    font-size: 12px;
+    color: #000;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+    line-height: 17px
+}
+.widget_mailchimpsf_widget span {
+    color: #b61313
+}
+.widget_mailchimpsf_widget #mc_signup {
+    display: inline-block;
+    margin-top: 10px;
+    width: 100%
+}
+.widget_mailchimpsf_widget label {
+    display: none
+}
+.widget_mailchimpsf_widget .mc_merge_var {
+    display: inline-block;
+    vertical-align: top;
+    float: left
+}
+.widget_mailchimpsf_widget .mc_merge_var .mc_input {
+    border: 0 solid #555;
+    background-color: #e2e2e2;
+    font-size: 10px;
+    text-transform: none;
+    color: #555;
+    height: 24px;
+    line-height: 24px;
+    width: 130px;
+    font-family: gothambook
+}
+.fourth .contact-mail-link{
+    margin-bottom:22px;
+}
+.fourth .widget_mailchimpsf_widget .mc_signup_submit #jointheclubbyemailsubmit {
+    margin: 0;
+    border: 0 solid #555;
+    border-left: 0 none;
+    background-color: #fdbd42;
+    font-size: 16px;
+    color: #000;
+    padding: 0;
+    width: 31px;
+    height: 41px;
+    line-height: 24px;
+    border-radius: 0;
+    display: inline-block;
+    vertical-align: top;
+}
+.footer-container-bottom-block{
+    margin: auto;
+    padding: 0 20px;
+    position: relative;
+    clear: both;
+    overflow: hidden;
+    background-color: #11203F;
+}
+.footer-container-bottom-block .pull-left {
+    float: left;
+    line-height: 42px;
+    color: #c3c3c3;
+    font-size: 10px;
+    font-family: gothambook;
+    text-transform: uppercase
+}
+.footer-container-bottom-block .pull-left a {
+    color: #c3c3c3;
+    font-size: 10px;
+    text-decoration: none
+}
+.footer-container-bottom-block.pull-left a:hover {
+    color: #fff
+}
+.footer-container-bottom-block .pull-right {
+    float: right;
+    margin-top: 16px
+}
+.footer-container-bottom-block .pull-right ul {
+    margin: 0;
+    padding: 0
+}
+.footer-container-bottom-block .pull-right ul li a {
+    font-size: 10px;
+    text-transform: uppercase;
+    color: #b8b8b8;
+    float: left;
+    text-decoration: none;
+    font-family: gothambook
+}
+.footer-container-bottom-block .pull-right ul li a:hover {
+    color: #fff
+}
+.footer-container-bottom-block .pull-right ul li {
+    margin: 0p;
+    padding: 0;
+    list-style-type: none;
+    float: left
+}
+.footer-container-bottom-block .pull-right ul li.sep {
+    font-size: 10px;
+    text-transform: uppercase;
+    color: #b8b8b8;
+    font-family: gothambook;
+    width: 22px;
+    text-align: center;
+    float: left
+}
+.footer-container-bottom-block .pull-right ul li.poweredby {
+    font-size: 10px;
+    text-transform: none;
+    color: #b8b8b8;
+    font-family: gothambook;
+    margin-left: 15px
+}
+.footer-container-bottom-block .pull-right ul li.poweredby a{
+    float: right;
+    background-image: url(https://ik.imagekit.io/eshopbox/mrbuttonlive/wp-content/themes/MRBUTTON_THEME/images/eshopbox.png);
+    display: inline-block;
+    width: 52px;
+    height: 12px;
+    margin: 3px 0 0 5px;
+    vertical-align: middle;
+}
