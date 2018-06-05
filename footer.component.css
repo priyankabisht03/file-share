@@ -364,7 +364,13 @@
 .widget_mailchimpsf_widget .mc_merge_var {
     display: inline-block;
     vertical-align: top;
-    float: left
+}
+.mc_form_inside {
+    display: flex;
+}
+.jointheclub_inputblock {
+    display: flex;
+    justify-content: center;
 }
 .widget_mailchimpsf_widget .mc_merge_var .mc_input {
     border: 0 solid #555;
@@ -469,3 +475,32 @@
     margin: 3px 0 0 5px;
     vertical-align: middle;
 }
+
+
+@media screen and (max-width:980px){
+
+}
+
+@media screen and (max-width:767px){
+#footer-container .footerlinkclass ul.footerlinkblock li , #footer-container .footer-shipping-block ul.footershippingblock li{
+    width: 50%;
+    padding-left: 5%;
+    box-sizing: border-box;
+    margin-bottom:25px;
+}
+.footer-container-bottom-block .container .pull-left {
+  padding-left: 15%     
+}
+.footer-container-bottom-block .container .pull-right{
+    padding-right: 25%;
+}
+}
+
+@media screen and (max-width:380px){
+    #footer-container .footerlinkclass ul.footerlinkblock li , #footer-container .footer-shipping-block ul.footershippingblock li{
+        width: 100%;
+        padding-left: 10%;
+        box-sizing: border-box;
+        margin-bottom:25px;
+    } 
+    }
